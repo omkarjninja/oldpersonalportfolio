@@ -1,0 +1,96 @@
+body{
+    background-color: #F3E9DD;
+}
+.nav-item{
+    padding: 0px 18px;
+}
+.navbar-brand{
+    font-size: 3rem;
+    padding-left: 75px;
+    font-weight: bolder;
+}
+h1{
+    font-size: 4rem;
+    font-family: 'Patua One', cursive;
+    padding: 20px 20px 20px 20px;
+    line-height: 1.4;
+    cursor: help;
+    margin: auto;
+    text-align: center;
+}
+p{
+    font-size: 1.3rem;
+    font-family: 'Gruppo', cursive;
+    padding: 20px 20px 0px 20px;
+    line-height: 0.5;
+    margin: auto;
+    text-align: center;
+    
+}
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    font-size: 1rem;
+}
+.btn a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+.para{
+    padding-bottom: 20px;
+}
+hr{
+    margin: 3% 25%;
+    width: 50%;
+}
+.image img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    border-radius: 20px;
+    max-width: 100%;
+}
+.text{
+    padding-bottom: 20px;
+}
+#texty{
+    font-size: 2rem;
+    font-family: 'Gruppo', cursive;
+    padding: 20px 20px 20px 20px;
+    line-height: 1.2;
+    margin: auto;
+    text-align: center;
+    
+}
+.imgg img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    border-radius: 20px;
+    max-width: 100%;
+}
+.abot{
+    padding-bottom: 25px;
+}
+.imag{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    padding: 10px 0px 10px 0px;
+
+}
+.imag i{
+    padding-top: 15px;
+    text-decoration: none;
+    color: #171010;
+    padding-right: 40px;
+}
+.imag i b{
+    font-family: 'Gruppo', cursive;
+}
